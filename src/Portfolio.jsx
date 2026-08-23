@@ -890,20 +890,6 @@ const Portfolio = () => {
                     <FaExternalLinkAlt />
                   </button>
 
-                  {/* <button
-                    className={`px-6 py-3 rounded-xl border flex items-center gap-3 ${
-                      darkMode
-                        ? "border-gray-600"
-                        : "border-gray-300"
-                    }`}
-                  >
-
-                    <FaGithub />
-
-                    GitHub
-
-                  </button> */}
-
                 </div>
 
               </div>
@@ -1031,17 +1017,6 @@ const Portfolio = () => {
                     <FaExternalLinkAlt />
 
                   </button>
-
-                  {/* <button
-                    className={`px-6 py-3 rounded-xl border flex items-center gap-3 ${
-                      darkMode
-                        ? "border-gray-600"
-                        : "border-gray-300"
-                    }`}
-                  >
-                    <FaGithub />
-                    GitHub
-                  </button> */}
 
                 </div>
 
